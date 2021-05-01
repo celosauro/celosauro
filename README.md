@@ -14,3 +14,7 @@ I’m currently improving knowledge about DDD (Domain Driven Design), Event Sour
 <p>
 <a href="https://www.buymeacoffee.com/celosauro" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </p>
+
+<a href="https://github.com/celosauro/celosauro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celosauro" />
+</a>
